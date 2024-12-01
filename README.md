@@ -1,6 +1,6 @@
 # 🧑‍💻 Project Description of Programming Activities
 
-This repository contains a series of Python programs from the **Programming Logic** module, lesson 04, organized into different folders. Each folder contains a programming activity described below:
+Este repositório contém um conjunto de atividades práticas em Python, lesson 04. Cada atividade está organizada em pastas separadas, facilitando o acesso e a prática.
 
 ---
 
